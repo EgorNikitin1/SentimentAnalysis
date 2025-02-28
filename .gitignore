@@ -1,0 +1,13 @@
+venv/
+ml/chunkers/
+ml/corpora/
+ml/grammars/
+ml/help/
+ml/misc/
+ml/models/
+ml/sentiment/
+ml/stemmers/
+ml/taggers/
+ml/tokenizers/
+app/__pycache__
+ml/__pycache__
